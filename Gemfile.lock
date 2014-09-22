@@ -1,0 +1,9 @@
+GEM
+  specs:
+    grocer (0.6.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  grocer
